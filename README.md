@@ -50,3 +50,6 @@ DB_PORT=5432
 
 # Tech
 **Python**, **Django**, **Rest Framework**, **Simple-JWT**, **NGINX**, **Docker**, **Gunicorn**
+
+# Автор
+[Nizzerato](https://github.com/Nizzerato)
